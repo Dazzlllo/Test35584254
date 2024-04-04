@@ -96,4 +96,5 @@ DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 
-IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,0.0.0.0/8,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
