@@ -4,9 +4,9 @@ ruleset=🔗 节点选择,https://raw.githubusercontent.com/Dazzlllo/Test3558425
 ruleset=🎮 游戏加速,https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/iplist1.list
 ruleset=🎮 游戏加速,[]FINAL
 
-custom_proxy_group=🔗 节点选择`select`[]DIRECT`[]♻️ 自动选择`.*
+custom_proxy_group=🔗 节点选择`select`[]DIRECT`[]REJECT`[]♻️ 自动选择`.*
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://connectivitycheck.gstatic.com/generate_204`255,,10
-custom_proxy_group=🎮 游戏加速`select`[]DIRECT`[]♻️ 自动选择`.*
+custom_proxy_group=🎮 游戏加速`select`[]DIRECT`[]REJECT`[]♻️ 自动选择`.*
 
 enable_rule_generator=true
 overwrite_original_rules=true
