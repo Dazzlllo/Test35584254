@@ -111,5 +111,4 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,tdatamaster.com
 DOMAIN-SUFFIX,vasdgame.com,REJECT
-DOMAIN-SET,101.32.112.0,REJECT
 DOMAIN-SUFFIX,anticheatexpert.com,REJECT
