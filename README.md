@@ -1,2 +1,3 @@
 # Test35584254
-dsssssss
+
+https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/config.list
