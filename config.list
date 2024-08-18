@@ -1,13 +1,11 @@
 [custom]
 
-ruleset=🔗 节点选择,https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/iplist.list
-ruleset=🌐 测试,[]FINAL
-ruleset=[]DIRECT,[]REJECT
+ruleset=🌐 节点选择,https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/iplist.list
+ruleset=⛔ 测试,[]FINAL
 
-custom_proxy_group=🔗 节点选择`select`[]♻️ 自动选择`[]DIRECT`[]REJECT`.*
-custom_proxy_group=♻️ 自动选择`url-test`.*`http://cp.cloudflare.com/generate_204`300,,50
-custom_proxy_group=🌐 测试`select`[]🔗 节点选择`[]♻️ 自动选择`[]DIRECT`[]REJECT
+custom_proxy_group=🌐 节点选择`select`[]🌀 自测速`[]DIRECT`[]REJECT`.*
+custom_proxy_group=🌀 自测速`url-test`.*`http://cp.cloudflare.com/generate_204`300,,50
+custom_proxy_group=⛔ 测试`select`[]🌐 节点选择`[]🌀 自测速`[]DIRECT`[]REJECT
 
 enable_rule_generator=true
 overwrite_original_rules=true
-clash_rule_base=https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/corecon.yml
