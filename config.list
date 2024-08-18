@@ -1,7 +1,7 @@
 [custom]
 
 ruleset=🔗 节点选择,https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/iplist.list
-ruleset=[]DIRECT,[]REJECT
+ruleset=DIRECT,REJECT
 ruleset=🔗 节点选择,[]FINAL
 
 custom_proxy_group=🔗 节点选择`select`[]♻️ 自动选择`[]DIRECT`[]REJECT.*
