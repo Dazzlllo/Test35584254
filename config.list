@@ -8,4 +8,7 @@ custom_proxy_group=♻️ 自动选择`url-test`.*`http://cp.cloudflare.com/gene
 
 enable_rule_generator=true
 overwrite_original_rules=true
-clash_rule_base=https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/corecon.yml
+log-level: silent
+enhanced-mode: fake-ip
+fake-ip-range: 192.168.0.0/24
+fake-ip-filter: - '*.lan'
