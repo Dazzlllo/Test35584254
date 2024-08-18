@@ -1,12 +1,8 @@
-ipv6: true
 log-level: silent
 
-dns:
-  enable: true
-  enhanced-mode: fake-ip
-  listen: :53
-  nameserver:
-    #- 223.5.5.5
-  fake-ip-range: 192.168.0.0/24
-  fake-ip-filter: - '*.lan'
+#dns:
+  #enable: true
+  #enhanced-mode: fake-ip
+  #listen: :53
+  #fake-ip-filter: - '*.lan'
   
