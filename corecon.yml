@@ -1,8 +1,8 @@
 log-level: silent
 
-#dns:
-  #enable: true
-  #enhanced-mode: fake-ip
-  #listen: :53
-  #fake-ip-filter: - '*.lan'
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  listen: :53
+  fake-ip-filter: - '*.lan'
   
