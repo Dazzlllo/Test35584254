@@ -117,4 +117,4 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-KEYWORD,baidu,REJECT
+DOMAIN-KEYWORD,baidu,[]DIRECT
