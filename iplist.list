@@ -6,7 +6,7 @@ GEOIP,CN,DIRECT
 
 ##Pubgmobile
 IP-CIDR,119.28.0.0/16
-IP-CIDR6,119.28.0.0/16
+IP-CIDR,43.0.0.0/16
 DOMAIN-KEYWORD,tdatamaster
 
 ##microsoft
