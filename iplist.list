@@ -1,5 +1,5 @@
 ##REJECT!!
-DOMAIN-KEYWORD,2345,REJECT
+##DOMAIN-KEYWORD,2345,REJECT
 
 ##IP CN
 GEOIP,CN,DIRECT
@@ -12,7 +12,7 @@ IP-CIDR,101.32.0.0/16
 IP-CIDR,101.33.0.0/16
 DOMAIN-KEYWORD,tdatamaster
 
-##microsoft
+##Microsoft
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,aadrm
@@ -88,7 +88,7 @@ DOMAIN-KEYWORD,livefilestore
 DOMAIN-KEYWORD,oneclient
 DOMAIN-KEYWORD,spoprod
 
-##steam
+##Steam
 DOMAIN-KEYWORD,akamaihd
 DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,steambroadcast
