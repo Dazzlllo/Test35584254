@@ -1,101 +1,92 @@
-##IP CN
-GEOIP,CN,DIRECT
-
-##Pubgmobile
-##IP-CIDR,101.32.0.0/16,🌐 节点选择
-##IP-CIDR,101.33.0.0/16,🌐 节点选择
-DOMAIN-KEYWORD,tdatamaster,DIRECT
-
 ##Microsoft
-DOMAIN-KEYWORD,1drv,🌐 节点选择
-DOMAIN-KEYWORD,microsoft,🌐 节点选择
-DOMAIN-KEYWORD,aadrm,🌐 节点选择
-DOMAIN-KEYWORD,acompli,🌐 节点选择
-DOMAIN-KEYWORD,aka,🌐 节点选择
-DOMAIN-KEYWORD,akadns,🌐 节点选择
-DOMAIN-KEYWORD,aspnetcdn,🌐 节点选择
-DOMAIN-KEYWORD,assets-yammer,🌐 节点选择
-DOMAIN-KEYWORD,azure,🌐 节点选择
-DOMAIN-KEYWORD,azureedge,🌐 节点选择
-DOMAIN-KEYWORD,azureiotcentral,🌐 节点选择
-DOMAIN-KEYWORD,azurerms,🌐 节点选择
-DOMAIN-KEYWORD,bing,🌐 节点选择
-DOMAIN-KEYWORD,bingapis,🌐 节点选择
-DOMAIN-KEYWORD,cloudapp,🌐 节点选择
-DOMAIN-KEYWORD,cloudappsecurity,🌐 节点选择
-DOMAIN-KEYWORD,edgesuite,🌐 节点选择
-DOMAIN-KEYWORD,gfx.ms,🌐 节点选择
-DOMAIN-KEYWORD,hotmail,🌐 节点选择
-DOMAIN-KEYWORD,live.com,🌐 节点选择
-DOMAIN-KEYWORD,live.net,🌐 节点选择
-DOMAIN-KEYWORD,lync,🌐 节点选择
-DOMAIN-KEYWORD,msappproxy,🌐 节点选择
-DOMAIN-KEYWORD,msauth,🌐 节点选择
-DOMAIN-KEYWORD,msauthimages,🌐 节点选择
-DOMAIN-KEYWORD,msecnd,🌐 节点选择
-DOMAIN-KEYWORD,msedge,🌐 节点选择
-DOMAIN-KEYWORD,msft,🌐 节点选择
-DOMAIN-KEYWORD,msftauth,🌐 节点选择
-DOMAIN-KEYWORD,msftauthimages,🌐 节点选择
-DOMAIN-KEYWORD,msftidentity,🌐 节点选择
-DOMAIN-KEYWORD,msidentity,🌐 节点选择
-DOMAIN-KEYWORD,msn,🌐 节点选择
-DOMAIN-KEYWORD,msocdn,🌐 节点选择
-DOMAIN-KEYWORD,msocsp,🌐 节点选择
-DOMAIN-KEYWORD,mstea,🌐 节点选择
-DOMAIN-KEYWORD,o365weve,🌐 节点选择
-DOMAIN-KEYWORD,oaspapps,🌐 节点选择
-DOMAIN-KEYWORD,office.com,🌐 节点选择
-DOMAIN-KEYWORD,office.net,🌐 节点选择
-DOMAIN-KEYWORD,office365,🌐 节点选择
-DOMAIN-KEYWORD,officeppe,🌐 节点选择
-DOMAIN-KEYWORD,omniroot,🌐 节点选择
-DOMAIN-KEYWORD,onenote,🌐 节点选择
-DOMAIN-KEYWORD,outlook,🌐 节点选择
-DOMAIN-KEYWORD,outlookmobile,🌐 节点选择
-DOMAIN-KEYWORD,phonefactor,🌐 节点选择
-DOMAIN-KEYWORD,public-trust,🌐 节点选择
-DOMAIN-KEYWORD,sfbassets,🌐 节点选择
-DOMAIN-KEYWORD,sfx.ms,🌐 节点选择
-DOMAIN-KEYWORD,sharepoint,🌐 节点选择
-DOMAIN-KEYWORD,sharepointonline,🌐 节点选择
-DOMAIN-KEYWORD,skype,🌐 节点选择
-DOMAIN-KEYWORD,skypeassets,🌐 节点选择
-DOMAIN-KEYWORD,skypeforbusiness,🌐 节点选择
-DOMAIN-KEYWORD,staffhub,🌐 节点选择
-DOMAIN-KEYWORD,svc.ms,🌐 节点选择
-DOMAIN-KEYWORD,sway,🌐 节点选择
-DOMAIN-KEYWORD,trafficmanager,🌐 节点选择
-DOMAIN-KEYWORD,uservoice,🌐 节点选择
-DOMAIN-KEYWORD,virtualearth,🌐 节点选择
-DOMAIN-KEYWORD,visualstudio,🌐 节点选择
-DOMAIN-KEYWORD,windows,🌐 节点选择
-DOMAIN-KEYWORD,windowsazure,🌐 节点选择
-DOMAIN-KEYWORD,windowsupdate,🌐 节点选择
-DOMAIN-KEYWORD,wunderlist,🌐 节点选择
-DOMAIN-KEYWORD,yammer,🌐 节点选择
-DOMAIN-KEYWORD,yammerusercontent,🌐 节点选择
-DOMAIN-KEYWORD,copilot,🌐 节点选择
-DOMAIN-KEYWORD,onedrive,🌐 节点选择
-DOMAIN-KEYWORD,skydrive,🌐 节点选择
-DOMAIN-KEYWORD,livefilestore,🌐 节点选择
-DOMAIN-KEYWORD,oneclient,🌐 节点选择
-DOMAIN-KEYWORD,spoprod,🌐 节点选择
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,aadrm
+DOMAIN-KEYWORD,acompli
+DOMAIN-KEYWORD,aka
+DOMAIN-KEYWORD,akadns
+DOMAIN-KEYWORD,aspnetcdn
+DOMAIN-KEYWORD,assets-yammer
+DOMAIN-KEYWORD,azure
+DOMAIN-KEYWORD,azureedge
+DOMAIN-KEYWORD,azureiotcentral
+DOMAIN-KEYWORD,azurerms
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,bingapis
+DOMAIN-KEYWORD,cloudapp
+DOMAIN-KEYWORD,cloudappsecurity
+DOMAIN-KEYWORD,edgesuite
+DOMAIN-KEYWORD,gfx.ms
+DOMAIN-KEYWORD,hotmail
+DOMAIN-KEYWORD,live.com
+DOMAIN-KEYWORD,live.net
+DOMAIN-KEYWORD,lync
+DOMAIN-KEYWORD,msappproxy
+DOMAIN-KEYWORD,msauth
+DOMAIN-KEYWORD,msauthimages
+DOMAIN-KEYWORD,msecnd
+DOMAIN-KEYWORD,msedge
+DOMAIN-KEYWORD,msft
+DOMAIN-KEYWORD,msftauth
+DOMAIN-KEYWORD,msftauthimages
+DOMAIN-KEYWORD,msftidentity
+DOMAIN-KEYWORD,msidentity
+DOMAIN-KEYWORD,msn
+DOMAIN-KEYWORD,msocdn
+DOMAIN-KEYWORD,msocsp
+DOMAIN-KEYWORD,mstea
+DOMAIN-KEYWORD,o365weve
+DOMAIN-KEYWORD,oaspapps
+DOMAIN-KEYWORD,office.com
+DOMAIN-KEYWORD,office.net
+DOMAIN-KEYWORD,office365
+DOMAIN-KEYWORD,officeppe
+DOMAIN-KEYWORD,omniroot
+DOMAIN-KEYWORD,onenote
+DOMAIN-KEYWORD,outlook
+DOMAIN-KEYWORD,outlookmobile
+DOMAIN-KEYWORD,phonefactor
+DOMAIN-KEYWORD,public-trust
+DOMAIN-KEYWORD,sfbassets
+DOMAIN-KEYWORD,sfx.ms
+DOMAIN-KEYWORD,sharepoint
+DOMAIN-KEYWORD,sharepointonline
+DOMAIN-KEYWORD,skype
+DOMAIN-KEYWORD,skypeassets
+DOMAIN-KEYWORD,skypeforbusiness
+DOMAIN-KEYWORD,staffhub
+DOMAIN-KEYWORD,svc.ms
+DOMAIN-KEYWORD,sway
+DOMAIN-KEYWORD,trafficmanager
+DOMAIN-KEYWORD,uservoice
+DOMAIN-KEYWORD,virtualearth
+DOMAIN-KEYWORD,visualstudio
+DOMAIN-KEYWORD,windows
+DOMAIN-KEYWORD,windowsazure
+DOMAIN-KEYWORD,windowsupdate
+DOMAIN-KEYWORD,wunderlist
+DOMAIN-KEYWORD,yammer
+DOMAIN-KEYWORD,yammerusercontent
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,livefilestore
+DOMAIN-KEYWORD,oneclient
+DOMAIN-KEYWORD,spoprod
 
 ##Steam
-DOMAIN-KEYWORD,akamaihd,🌐 节点选择
-DOMAIN-KEYWORD,akamaized,🌐 节点选择
-DOMAIN-KEYWORD,steambroadcast,🌐 节点选择
-DOMAIN-KEYWORD,steamcommunity,🌐 节点选择
-DOMAIN-KEYWORD,steampipe,🌐 节点选择
-DOMAIN-KEYWORD,steamstore,🌐 节点选择
-DOMAIN-KEYWORD,steamusercontent,🌐 节点选择
-DOMAIN-KEYWORD,steamuserimages,🌐 节点选择
-DOMAIN-KEYWORD,steam,🌐 节点选择
-DOMAIN-KEYWORD,steamgames,🌐 节点选择
-DOMAIN-KEYWORD,steampowered,🌐 节点选择
-DOMAIN-KEYWORD,steamserver,🌐 节点选择
-DOMAIN-KEYWORD,steamstat,🌐 节点选择
-DOMAIN-KEYWORD,steamstatic,🌐 节点选择
-DOMAIN-KEYWORD,valvesoftware,🌐 节点选择
-FINAL, DIRECT
+DOMAIN-KEYWORD,akamaihd
+DOMAIN-KEYWORD,akamaized
+DOMAIN-KEYWORD,steambroadcast
+DOMAIN-KEYWORD,steamcommunity
+DOMAIN-KEYWORD,steampipe
+DOMAIN-KEYWORD,steamstore
+DOMAIN-KEYWORD,steamusercontent
+DOMAIN-KEYWORD,steamuserimages
+DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,steamgames
+DOMAIN-KEYWORD,steampowered
+DOMAIN-KEYWORD,steamserver
+DOMAIN-KEYWORD,steamstat
+DOMAIN-KEYWORD,steamstatic
+DOMAIN-KEYWORD,valvesoftware
