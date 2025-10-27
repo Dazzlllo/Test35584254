@@ -1,10 +1,10 @@
 [custom]
 
 ruleset=🔵 节点选择,https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/iplistO.list
+ruleset=⚪️ 直连,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/heads/main/iplistD.list,[]DIRECT
+ruleset=🔴 屏蔽,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/heads/main/iplistR.list,[]REJECT-DROP
+ruleset=🟤 屏蔽,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
 ruleset=🟡 调试,[]FINAL
-ruleset=🟡 DIRECTD,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/heads/main/iplistD.list,[]DIRECT
-ruleset=🟡 REJECTD,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/heads/main/iplistR.list,[]REJECT-DROP
-ruleset=🟡 REJECTD,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
 
 custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`[]REJECT-DROP`.*
 custom_proxy_group=🟢 自动测速`url-test`.*`http://cp.cloudflare.com/generate_204`300,,50
