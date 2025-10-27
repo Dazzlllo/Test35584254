@@ -6,10 +6,10 @@ ruleset=⛔ 屏蔽,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/
 ruleset=⛔ 屏蔽,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
 ruleset=🟡 调试,[]FINAL
 
-custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`[]REJECT`.*
+custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`[]REJECT-DROP`.*
 custom_proxy_group=🟢 自动测速`url-test`.*`http://cp.cloudflare.com/generate_204`300,,50
 custom_proxy_group=⚪ 直连,[]DIRECT
-custom_proxy_group=⛔ 屏蔽,[]REJECT
+custom_proxy_group=⛔ 屏蔽,[]REJECT-DROP
 custom_proxy_group=🟡 调试`select`[]🔵 节点选择`[]🟢 自动测速
 
 enable_rule_generator=true
