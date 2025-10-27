@@ -3,6 +3,7 @@
 ruleset=🔵 节点选择,https://raw.githubusercontent.com/Dazzlllo/Test35584254/main/iplistO.list
 ruleset=⚪ 直连,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/heads/main/iplistD.list
 ruleset=⛔ 屏蔽,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/heads/main/iplistR.list
+ruleset=⛔ 屏蔽,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
 ruleset=🟡 调试,[]FINAL
 
 custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`[]REJECT`.*
