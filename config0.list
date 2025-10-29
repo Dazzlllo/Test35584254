@@ -1,5 +1,12 @@
 [custom]
-ruleset=🔴 屏蔽,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloon.list,[]REJECT
+
+rule-providers:
+🔴 屏蔽:
+behavior: domain
+format: yaml
+url: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomo.yaml
+
+ruleset=🔴 屏蔽
 ruleset=🟡 调试,[]FINAL
 
 custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`.*
