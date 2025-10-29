@@ -1,5 +1,5 @@
 [custom]
-ruleset=[]REJECT,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloonlite.list
+ruleset=REJECT,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloonlite.list
 ruleset=🟡 调试,[]FINAL
 
 custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`.*
