@@ -4,9 +4,9 @@ rule-providers:
 🔴 屏蔽:
 behavior: classical
 format: yaml
+url: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list
 
-
-ruleset=🔴 屏蔽,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list
+ruleset=🔴 屏蔽
 ruleset=🟡 调试,[]FINAL
 
 custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`.*
