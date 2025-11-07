@@ -1,5 +1,6 @@
 [custom]
 ruleset=🔴 屏蔽,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloonlite.list
+ruleset=🔴 屏蔽,https://raw.githubusercontent.com/Dazzlllo/Test35584254/refs/heads/main/Addon.list
 ruleset=🟡 调试,[]FINAL
 
 custom_proxy_group=🔵 节点选择`select`[]🟢 自动测速`[]DIRECT`[]REJECT`.*
